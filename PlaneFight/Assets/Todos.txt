@@ -1,0 +1,21 @@
+== TODO ==
+- Core
+	-
+- Plane 
+	- Show attack area
+	- Crashing
+	- Types
+		- Biplane
+		- Light Fighter
+		- Heavy Fighter
+		- Night Fighter
+		- Com Unit
+		- Copter
+- Capturable
+- Characters
+	- Passive skills
+	- Active skills
+- ui
+	- better next unit
+	- selection details
+	- 
