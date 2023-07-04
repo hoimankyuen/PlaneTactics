@@ -1,9 +1,9 @@
-# Plane Tatics: A Turn-based Plane Game
+# Plane Tactics: A Turn-based Plane Game
 
 ## Introduction
 
 ![alt text](Screenshots/title.png?raw=true)
-Plane Tatics is an experimental turn-based game about aircraft battles. The game puts the player in command of a plane squad, of which contains various types of aircrafts, to fight against enemy aircrafts.  
+Plane Tactics is an experimental turn-based game about aircraft battles. The game puts the player in command of a plane squad, of which contains various types of aircrafts, to fight against enemy aircrafts.  
 This game is an experiment to explore the concept of gridless chess-like tatics games, and the plane theme add a further concept of forced movement that depends of previous movement.
 
 ## Gameplay Design
